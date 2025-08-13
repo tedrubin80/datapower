@@ -1,0 +1,29 @@
+
+Data Center Tariff Impact Analysis Report
+=========================================
+
+Analysis Details:
+- Generated: 2025-08-10 16:42:28
+- Location: Johor, Malaysia
+- Tariff Rate: 25%
+- Hardware Exposure: 40%
+
+Key Results:
+- Base CapEx: $888.60M
+- Tariff Impact: $115.52M
+- New CapEx: $1004.12M
+- CapEx Increase: 13.0%
+- TCO Increase: 6.9%
+- Risk Level: Medium
+
+Recommendations:
+• Major cost impact justifies strategic sourcing initiatives
+
+Files Included in This Package:
+- main_analysis_*.csv: Primary analysis results
+- scenario_analysis_*.csv: Multiple tariff scenarios
+- regional_comparison_*.csv: Cross-location analysis
+- comprehensive_analysis_*.xlsx: Complete Excel workbook
+- plots/: Visualization images (PNG format)
+- interactive/: Interactive HTML charts
+- data/: Raw data in JSON format

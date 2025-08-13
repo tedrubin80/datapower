@@ -1,0 +1,5 @@
+Scenario,Tariff Rate,Cost Impact,TCO Increase,New TCO,Risk Level
+Current (7.5-25%),15%,42.8844,2.956117736265251,1493.5844,Low
+Moderate Escalation (40%),40%,114.3584,7.88298063004067,1565.0584000000001,Medium
+Maximum Escalation (60%),60%,171.5376,11.824470945061003,1622.2376,Medium
+Trade War (80%),80%,228.7168,15.76596126008134,1679.4168,High

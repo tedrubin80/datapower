@@ -1,0 +1,16 @@
+Metric,Value
+Analysis Timestamp,2025-08-10 16:40:19
+Location,"Atlanta, Georgia"
+Tariff Rate,25%
+Hardware Exposure,40%
+Base CapEx (USD Million),1112.70
+Hardware Cost (USD Million),445.08
+Tariff Cost Base (USD Million),111.27
+Risk-Adjusted Tariff Cost (USD Million),144.65
+Total CapEx (USD Million),1257.35
+CapEx Increase (%),13.00
+Base TCO 10yr (USD Million),1952.10
+New TCO 10yr (USD Million),2096.75
+TCO Increase (%),7.41
+Risk Level,Medium
+Region,US

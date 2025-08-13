@@ -1,0 +1,16 @@
+Metric,Value
+Analysis Timestamp,2025-08-10 16:42:38
+Location,"Evanston, Wyoming"
+Tariff Rate,25%
+Hardware Exposure,40%
+Base CapEx (USD Million),777.60
+Hardware Cost (USD Million),311.04
+Tariff Cost Base (USD Million),77.76
+Risk-Adjusted Tariff Cost (USD Million),101.09
+Total CapEx (USD Million),878.69
+CapEx Increase (%),13.00
+Base TCO 10yr (USD Million),1270.20
+New TCO 10yr (USD Million),1371.29
+TCO Increase (%),7.96
+Risk Level,Medium
+Region,US

@@ -1,0 +1,29 @@
+
+Data Center Tariff Impact Analysis Report
+=========================================
+
+Analysis Details:
+- Generated: 2025-08-10 16:42:38
+- Location: Evanston, Wyoming
+- Tariff Rate: 25%
+- Hardware Exposure: 40%
+
+Key Results:
+- Base CapEx: $777.60M
+- Tariff Impact: $101.09M
+- New CapEx: $878.69M
+- CapEx Increase: 13.0%
+- TCO Increase: 8.0%
+- Risk Level: Medium
+
+Recommendations:
+• Major cost impact justifies strategic sourcing initiatives
+
+Files Included in This Package:
+- main_analysis_*.csv: Primary analysis results
+- scenario_analysis_*.csv: Multiple tariff scenarios
+- regional_comparison_*.csv: Cross-location analysis
+- comprehensive_analysis_*.xlsx: Complete Excel workbook
+- plots/: Visualization images (PNG format)
+- interactive/: Interactive HTML charts
+- data/: Raw data in JSON format

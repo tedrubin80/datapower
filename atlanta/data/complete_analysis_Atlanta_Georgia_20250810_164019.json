@@ -1,0 +1,149 @@
+{
+  "analysis_metadata": {
+    "timestamp": "2025-08-10T16:40:19.693014",
+    "location": "Atlanta, Georgia",
+    "tariff_rate": 25,
+    "hardware_percentage": 40,
+    "include_risk_premium": true,
+    "risk_multiplier": 1.3
+  },
+  "results": {
+    "base_tco": 1952.1,
+    "base_capex": 1112.7,
+    "hardware_cost": 445.08000000000004,
+    "tariff_cost": 111.27000000000001,
+    "adjusted_tariff_cost": 144.651,
+    "new_capex": 1257.351,
+    "new_tco": 2096.7509999999997,
+    "capex_increase": 13.0,
+    "tco_increase": 7.410019978484709,
+    "currency": "USD",
+    "region": "US"
+  },
+  "scenarios": [
+    {
+      "Scenario": "Current (7.5-25%)",
+      "Tariff Rate": "15%",
+      "Cost Impact": 86.7906,
+      "TCO Increase": 4.4460119870908255,
+      "New TCO": 2038.8906,
+      "Risk Level": "Low"
+    },
+    {
+      "Scenario": "Moderate Escalation (40%)",
+      "Tariff Rate": "40%",
+      "Cost Impact": 231.44160000000005,
+      "TCO Increase": 11.856031965575538,
+      "New TCO": 2183.5416,
+      "Risk Level": "Medium"
+    },
+    {
+      "Scenario": "Maximum Escalation (60%)",
+      "Tariff Rate": "60%",
+      "Cost Impact": 347.1624,
+      "TCO Increase": 17.784047948363302,
+      "New TCO": 2299.2624,
+      "Risk Level": "High"
+    },
+    {
+      "Scenario": "Trade War (80%)",
+      "Tariff Rate": "80%",
+      "Cost Impact": 462.8832000000001,
+      "TCO Increase": 23.712063931151075,
+      "New TCO": 2414.9832,
+      "Risk Level": "High"
+    }
+  ],
+  "regional_data": [
+    {
+      "Location": "Atlanta, Georgia",
+      "Region": "US",
+      "Base TCO": 1952.1,
+      "Tariff Impact": 144.651,
+      "TCO Increase %": 7.410019978484709,
+      "New TCO": 2096.7509999999997,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Salt Lake City, Utah",
+      "Region": "US",
+      "Base TCO": 1619.1,
+      "Tariff Impact": 126.69800000000002,
+      "TCO Increase %": 7.8252115372737965,
+      "New TCO": 1745.798,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Boden, Sweden",
+      "Region": "EU",
+      "Base TCO": 499.5,
+      "Tariff Impact": 26.689000000000004,
+      "TCO Increase %": 5.343143143143144,
+      "New TCO": 526.189,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Johor, Malaysia",
+      "Region": "APAC",
+      "Base TCO": 1681.8,
+      "Tariff Impact": 115.51800000000001,
+      "TCO Increase %": 6.868712094184803,
+      "New TCO": 1797.318,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Evanston, Wyoming",
+      "Region": "US",
+      "Base TCO": 1270.2,
+      "Tariff Impact": 101.08800000000001,
+      "TCO Increase %": 7.958431743032595,
+      "New TCO": 1371.288,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Kristiansand, Norway",
+      "Region": "EU",
+      "Base TCO": 596.9,
+      "Tariff Impact": 31.278000000000006,
+      "TCO Increase %": 5.2400737141899825,
+      "New TCO": 628.178,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Florence, South Carolina",
+      "Region": "US",
+      "Base TCO": 1713.4,
+      "Tariff Impact": 126.594,
+      "TCO Increase %": 7.388467374810317,
+      "New TCO": 1839.9940000000001,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Sines, Portugal",
+      "Region": "EU",
+      "Base TCO": 1450.7,
+      "Tariff Impact": 71.474,
+      "TCO Increase %": 4.926862893775419,
+      "New TCO": 1522.174,
+      "Risk Level": "Low"
+    },
+    {
+      "Location": "Iceland (Reykjanes)",
+      "Region": "EU",
+      "Base TCO": 774.1,
+      "Tariff Impact": 46.189,
+      "TCO Increase %": 5.966800155018731,
+      "New TCO": 820.289,
+      "Risk Level": "Medium"
+    },
+    {
+      "Location": "Des Moines, Iowa",
+      "Region": "US",
+      "Base TCO": 1443.2,
+      "Tariff Impact": 114.06200000000001,
+      "TCO Increase %": 7.903409090909092,
+      "New TCO": 1557.2620000000002,
+      "Risk Level": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+
+Data Center Tariff Impact Analysis Report
+=========================================
+
+Analysis Details:
+- Generated: 2025-08-10 16:43:28
+- Location: Iceland (Reykjanes)
+- Tariff Rate: 25%
+- Hardware Exposure: 40%
+
+Key Results:
+- Base CapEx: $355.30M
+- Tariff Impact: $46.19M
+- New CapEx: $401.49M
+- CapEx Increase: 13.0%
+- TCO Increase: 6.0%
+- Risk Level: Medium
+
+Recommendations:
+• Capitalize on EU trade agreement benefits
+
+Files Included in This Package:
+- main_analysis_*.csv: Primary analysis results
+- scenario_analysis_*.csv: Multiple tariff scenarios
+- regional_comparison_*.csv: Cross-location analysis
+- comprehensive_analysis_*.xlsx: Complete Excel workbook
+- plots/: Visualization images (PNG format)
+- interactive/: Interactive HTML charts
+- data/: Raw data in JSON format

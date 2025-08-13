@@ -1,0 +1,29 @@
+
+Data Center Tariff Impact Analysis Report
+=========================================
+
+Analysis Details:
+- Generated: 2025-08-10 16:40:19
+- Location: Atlanta, Georgia
+- Tariff Rate: 25%
+- Hardware Exposure: 40%
+
+Key Results:
+- Base CapEx: $1112.70M
+- Tariff Impact: $144.65M
+- New CapEx: $1257.35M
+- CapEx Increase: 13.0%
+- TCO Increase: 7.4%
+- Risk Level: Medium
+
+Recommendations:
+• Major cost impact justifies strategic sourcing initiatives
+
+Files Included in This Package:
+- main_analysis_*.csv: Primary analysis results
+- scenario_analysis_*.csv: Multiple tariff scenarios
+- regional_comparison_*.csv: Cross-location analysis
+- comprehensive_analysis_*.xlsx: Complete Excel workbook
+- plots/: Visualization images (PNG format)
+- interactive/: Interactive HTML charts
+- data/: Raw data in JSON format
