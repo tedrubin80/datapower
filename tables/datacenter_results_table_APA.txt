@@ -1,0 +1,24 @@
+Table X
+Datacenter Location Simulation Results
+
+                Location  Base TCO (10-year, USD M)  Total CapEx (USD M)  Tariff Rate (%)  Risk-Adjusted Tariff Cost (USD M)
+         Johor, Malaysia                     1681.8              1004.12             25.0                             115.52
+    Kristiansand, Norway                      596.9               271.88             25.0                              31.28
+       Evanston, Wyoming                     1270.2               878.69             25.0                             101.09
+        Atlanta, Georgia                     1952.1              1257.35             25.0                             144.65
+           Boden, Sweden                      499.5               231.99             25.0                              26.69
+Florence, South Carolina                     1713.4              1100.39             25.0                             126.59
+        Des Moines, Iowa                     1443.2               991.46             25.0                             114.06
+    Salt Lake City, Utah                     1619.1              1101.30             25.0                             126.70
+         Sines, Portugal                     1450.7               621.27             25.0                              71.47
+     Iceland (Reykjanes)                      774.1               401.49             25.0                              46.19
+         Johor, Malaysia                     1681.8              1004.12             25.0                             115.52
+    Kristiansand, Norway                      596.9               271.88             25.0                              31.28
+       Evanston, Wyoming                     1270.2               878.69             25.0                             101.09
+        Atlanta, Georgia                     1952.1              1257.35             25.0                             144.65
+           Boden, Sweden                      499.5               231.99             25.0                              26.69
+Florence, South Carolina                     1713.4              1100.39             25.0                             126.59
+        Des Moines, Iowa                     1443.2               991.46             25.0                             114.06
+    Salt Lake City, Utah                     1619.1              1101.30             25.0                             126.70
+         Sines, Portugal                     1450.7               621.27             25.0                              71.47
+     Iceland (Reykjanes)                      774.1               401.49             25.0                              46.19
